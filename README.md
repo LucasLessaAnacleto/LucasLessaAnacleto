@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Olá👋
+Me chamo Lucas Lessa Anacleto, estou começando minha jornada na programação com um conhecimento básico da linguagem object pascal com IDE delphi10 e a linguagem SQL para gerenciamento e gerenciamento de dados. Atualmente, além de me aprofundar no que já sei, estou expandindo minha sabedoria em TI, aprendendo linguagens como Java, HTML, CSS e JavaScript.
 <!--
 **LucasLessaAnacleto/LucasLessaAnacleto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
