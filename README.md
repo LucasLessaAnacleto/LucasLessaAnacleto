@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div> 
 <br>
 
-<div  align="left"> 
+<div  align="center"> 
 <br>
    <!-- <img align="left" height="250" alt="coding-time" src="code.gif"> -->
     <h1 align="center">Melhores Tecnologias <3</h1>
