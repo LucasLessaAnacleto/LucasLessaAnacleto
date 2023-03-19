@@ -1,8 +1,7 @@
 ### Olá👋
 Me chamo Lucas Lessa Anacleto, estou começando minha jornada na programação com um conhecimento básico da linguagem object pascal com IDE delphi10 e a linguagem SQL para gerenciamento e gerenciamento de dados. Atualmente, além de me aprofundar no que já sei, estou expandindo minha sabedoria em TI, aprendendo linguagens como Java, HTML, CSS e JavaScript.
 <br>
-<br>
-<br>
+<br>                                                
 <!--
 **LucasLessaAnacleto/LucasLessaAnacleto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,22 +16,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  
-  <img  height="250em" width="500em" src="https://github-readme-stats.vercel.app/api?username=LucasLessaAnacleto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<!--  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLessaAnacleto&layout=compact&langs_count=16&theme=great-gatsby"/> -->
-</div> 
-<br>
-
 <div  align="center"> 
-<br>
-   <!-- <img align="left" height="250" alt="coding-time" src="code.gif"> -->
-    <h1 align="center"></h1>
+    <img align="left" height="200" width="300" src="https://github.com/LucasLessaAnacleto/Projeto-The-Last-of-us/blob/main/src/images/programmer.gif">
+  <br><br><br>
+    <!-- <img align="left" height="250" alt="coding-time" src="code.gif"> --> 
     <img align="center" height="30" width="40" alt="java-icon" src="https://github.com/LucasLessaAnacleto/Projeto-The-Last-of-us/blob/master/src/images/java-icon.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="40" width="50" alt="delphi-icon" src="https://github.com/LucasLessaAnacleto/Projeto-The-Last-of-us/blob/master/src/images/delphi-icon.svg">
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">     
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </div>
+  <br><br>
+  <h1></h1>
+  <br><br>
+  <div align="center"> 
+  <img  align="left" height="250em" width="500em" src="https://github-readme-stats.vercel.app/api?username=LucasLessaAnacleto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true">
+  <br><br>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLessaAnacleto&layout=compact&langs_count=16&theme=transparent">  
 </div>
 <br><br>
   
