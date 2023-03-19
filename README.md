@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <div  align="center"> 
 <br>
    <!-- <img align="left" height="250" alt="coding-time" src="code.gif"> -->
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center"></h1>
     <img align="center" height="30" width="40" alt="java-icon" src="https://github.com/LucasLessaAnacleto/Projeto-The-Last-of-us/blob/master/src/images/java-icon.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
