@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <div  align="center"> 
     <img align="left" height="200" width="300" src="https://github.com/LucasLessaAnacleto/Projeto-The-Last-of-us/blob/main/src/images/programmer.gif">
-  <br><br><br><br><br>
+  <br><br><br><br><br><br>
     <!-- <img align="left" height="250" alt="coding-time" src="code.gif"> --> 
     <img align="center" height="30" width="40" alt="java-icon" src="https://github.com/LucasLessaAnacleto/Projeto-The-Last-of-us/blob/master/src/images/java-icon.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
   <h1></h1>
-  <br><br>
+  <br><br><br>
   <div align="center"> 
   <img  align="left" height="230em" width="480em" src="https://github-readme-stats.vercel.app/api?username=LucasLessaAnacleto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true">
   <br><br>
