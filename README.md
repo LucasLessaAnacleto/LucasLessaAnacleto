@@ -20,10 +20,10 @@ Here are some ideas to get you started:
     <img align="left" height="200" width="300" src="https://github.com/LucasLessaAnacleto/Projeto-The-Last-of-us/blob/main/src/images/programmer.gif">
   <br><br><br><br><br><br>
     <!-- <img align="left" height="250" alt="coding-time" src="code.gif"> --> 
-    <img align="center" height="30" width="40" alt="java-icon" src="https://github.com/LucasLessaAnacleto/Projeto-The-Last-of-us/blob/master/src/images/java-icon.svg">
+    <img align="center" height="30" width="40" alt="java-icon" src="https://github.com/LucasLessaAnacleto/carrossel-the-last-of-us/blob/main/src/images/java-icon.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="50" alt="delphi-icon" src="https://github.com/LucasLessaAnacleto/Projeto-The-Last-of-us/blob/master/src/images/delphi-icon.svg">
+    <img align="center" height="40" width="50" alt="delphi-icon" src="https://github.com/LucasLessaAnacleto/carrossel-the-last-of-us/blob/main/src/images/delphi-icon.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
   <h1></h1>
