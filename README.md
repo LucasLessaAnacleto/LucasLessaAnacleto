@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 <div  align="center"> 
     <img align="left" height="200" width="300" src="https://github.com/LucasLessaAnacleto/Projeto-The-Last-of-us/blob/main/src/images/programmer.gif">
-  <br><br><br>
+  <br><br><br><br>
     <!-- <img align="left" height="250" alt="coding-time" src="code.gif"> --> 
     <img align="center" height="30" width="40" alt="java-icon" src="https://github.com/LucasLessaAnacleto/Projeto-The-Last-of-us/blob/master/src/images/java-icon.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
