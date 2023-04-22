@@ -23,9 +23,9 @@ Here are some ideas to get you started:
     <img align="center" height="30" width="40" alt="java-icon" src="https://github.com/LucasLessaAnacleto/LucasLessaAnacleto/blob/main/utils/java-icon.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="40" width="50" alt="delphi-icon" src="https://github.com/LucasLessaAnacleto/LucasLessaAnacleto/blob/main/utils/delphi-icon.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="52" width="62" alt="js-icon"  src="https://github.com/LucasLessaAnacleto/LucasLessaAnacleto/blob/main/utils/python-com.svg">
+    <img align="center" height="55" width="55" alt="js-icon"  src="https://github.com/LucasLessaAnacleto/LucasLessaAnacleto/blob/main/utils/python-com.svg">
+    <img align="center" height="40" width="40" alt="delphi-icon" src="https://github.com/LucasLessaAnacleto/LucasLessaAnacleto/blob/main/utils/delphi-icon.svg">
   </div>
   <h1></h1>
   <br><br><br>
