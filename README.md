@@ -29,12 +29,12 @@ Here are some ideas to get you started:
   </div>
   <h1></h1>
   <br><br><br>
-  <div align="center"> 
+ <!-- <div align="center"> 
   <img  align="left" height="230em" width="480em" src="https://github-readme-stats.vercel.app/api?username=LucasLessaAnacleto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true">
   <br><br>
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLessaAnacleto&layout=compact&langs_count=16&theme=transparent">  
 </div>
-<br><br>
+<br><br> -->
   
 <!--![Snake animation](https://github.com/LucasLessaAnacleto/LucasLessaAnacleto/blob/output/github-contribution-grid-snake.svg)-->
 
